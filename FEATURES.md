@@ -30,4 +30,4 @@ Organize saved profiles by mission and return to the campaign state you need.
 
 Save a campaign profile before a mission, prepare two squad builds and compare their performance. Keep the configuration that suits your tactics.
 
-[Download for PC](https://flyn.im/94ykBM)
+[Download for PC](https://flyn.im/6PCpxq)
